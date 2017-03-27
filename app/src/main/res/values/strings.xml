@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Retrofit App</string>
+    <string name="movies_title_list">20 best movies according to https://www.themoviedb.org/</string>
+</resources>
